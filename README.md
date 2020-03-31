@@ -12,3 +12,7 @@ Replace `UIActivityIndicatorView` in UIKit.
 ## SearchTextField
 
 Replace `UISearchTextField` in UIKit.
+
+## MapView
+
+Replace `MKMapView` in UIKit.
